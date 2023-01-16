@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card{
+    background-color: black;
+}
+
+#h1{
+    color: white;
+}
+
+.card-group{
+    width: 30%;
+    margin-top: 20px;
+}
+
+#clock{
+    color:lightskyblue;
+    font-size: 2.5em;
+    /* padding-top: 1.25rem; */
+    
+}
+
+#boxClock{
+    padding-top: 21px;
+}
